@@ -6,5 +6,6 @@ Immunotherapy.xlsx -- the dataset example<br>
 modelBest.pickle -- best models acheived from the dataset after multiple (randomized) runs<br>
 
 This project is part of the Independent Study in Advanced Programming course at George School.<br>
+Some parts of the codes were provided by the instructor, Travis.<br>
 
 Note that the codes have been kept in the original form at the time of submission.
